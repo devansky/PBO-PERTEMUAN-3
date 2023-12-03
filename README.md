@@ -1,1 +1,1 @@
-# kalkulator bangun ruang dan kalkulator bmi
+# kalkulator bangun ruang menggunakan tkinter dan kalkulator bmi
